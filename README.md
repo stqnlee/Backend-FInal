@@ -27,7 +27,7 @@ Includes JWT Authentication, CRUD, relational integrity in MongoDB, and RBAC
 ### Run Locally
 npm install
 node server.js
-# open http://localhost:3000
+open http://localhost:3000
 
 ### Auth
 Register
